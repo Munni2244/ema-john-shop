@@ -1,0 +1,16 @@
+.product-container{
+    display: flex;
+    border-bottom: 1px solid rgb(197, 194, 194);
+    font-weight: 400;
+}
+.product-details{
+    margin: 10px;
+  
+}
+.button{
+    background-color: rgb(243, 178, 14);
+    width: 180px;
+    padding: 5px;
+    border: 1px solid rgb(173, 171, 167);
+    border-radius: 5px;
+}

@@ -1,0 +1,21 @@
+.shop{
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+}
+.products{
+    margin-left: 50px;
+    margin-right: 5px;
+    border-right: 1px solid rgb(214, 209, 209);
+   
+
+}
+.input{
+    width: 60%;
+    padding: 8px;
+    margin-bottom: 5px;
+
+}
+.input-field{
+background-color: rgba(0, 0, 0, 0.884);
+text-align: center;
+}
